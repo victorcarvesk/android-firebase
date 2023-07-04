@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097411858751",
+    "project_id": "july4f-33d0d",
+    "storage_bucket": "july4f-33d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097411858751:android:6ab1bbf48e185f5ad1438a",
+        "android_client_info": {
+          "package_name": "com.example.july4f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097411858751-mvnnfoqfdqvkl4hbmrq12t0i1r74jmqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tN3ObQCE6mPteH5zjfyXudgD1EfBFxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097411858751-mvnnfoqfdqvkl4hbmrq12t0i1r74jmqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
